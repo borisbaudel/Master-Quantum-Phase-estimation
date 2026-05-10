@@ -141,12 +141,6 @@ joblib
 
 ---
 
-## Related work
-
-- **qCCL 2026 poster** — *Finite-Horizon Directional Observability for Optical Phase Estimation in Cavity-Mode Systems*, B. Baudel, R.T.Y. Thien. IEEE Quantum Computing, Communication and Learning, Denmark, 2026.
-
----
-
 ## References
 
 Wiseman, H.M. (1995). *Adaptive phase measurements of optical modes.* PRL 75, 4587.
