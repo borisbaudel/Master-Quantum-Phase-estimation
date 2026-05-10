@@ -4,11 +4,6 @@
 
 ## Overview
 
-This repository contains the simulation code and numerical experiments associated with the paper:
-
-> **Finite-Horizon Directional Observability for Optical Phase Estimation in Cavity-Homodyne Systems**
-> B. Baudel, R.T.Y. Thien — *IEEE qCCL 2026 (poster)*
-
 We study the problem of estimating a **hidden stochastic optical phase** $\varphi(t)$ from the noisy output of a balanced homodyne detector coupled to an open optical cavity. The phase is never measured directly — it must be reconstructed from its dynamical imprint on the intracavity quadratures.
 
 Three increasingly realistic settings are addressed:
