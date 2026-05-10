@@ -2,6 +2,8 @@
 
 **Quantum control · Linear observer · Homodyne detection · Kalman filtering**
 
+**[📄 Manuscript (PDF, 56 pages)](Projet___Master_2_Version_II%20(32).pdf)**
+
 ## Overview
 
 We study the problem of estimating a **hidden stochastic optical phase** $\varphi(t)$ from the noisy output of a balanced homodyne detector coupled to an open optical cavity. The phase is never measured directly — it must be reconstructed from its dynamical imprint on the intracavity quadratures.
